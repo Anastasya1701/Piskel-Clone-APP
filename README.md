@@ -1,5 +1,5 @@
 ### Piskel-Clone-API
-### Demo - [https://anastasya1701.github.io/Piskel-Clone-API](https://anastasya1701.github.io/Piskel-Clone-API)
+### Demo - [https://anastasya1701.github.io/Piskel-Clone-App/](https://anastasya1701.github.io/Piskel-Clone-App/)
 
 #### TECHNICAL IMPLEMENTATION:
 #### 1. Landing Page is presented with all needed information.
